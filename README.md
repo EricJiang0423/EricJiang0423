@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @01Jiangbingchen
+- Currently a student msjor in Financial Engineering in NUFE
+- A MLSA @Microsoft 
 
 ![](https://github-readme-stats.vercel.app/api?username=01Jiangbingchen)
 <!---
