@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @01Jiangbingchen
+# 👋 Hi, I’m @EricJiang0423
 - Currently a student msjor in Financial Engineering in NUFE
 - A MLSA @Microsoft 
 
