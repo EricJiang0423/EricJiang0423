@@ -13,7 +13,5 @@ You can click the Preview link to take a look at your changes.
 --->
 ![](https://github-readme-stats.vercel.app/api?username=EricJiang0423)
 
-![LeetCode Stats](https://leetcode.card.workers.dev/BingchenJiang?theme=default&font=baloo&extension=null)
-
 **🤝 Connect with me:**
 [<img align="left" alt="Bingchen Jiang | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/bingchenjiang/) 👈Open my Linkedin 😃
