@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @EricJiang0423
 
 - Currently a student msjor in Economics and Finance in University of Southampton
-- Currently learning Pytorch Numpy and so on...
+- Currently trying to learn some AI, LLM and do some paper replication
 - bj2u23@soton.ac.uk for Academic issues.
 - Jiangbingchenjbc@outlook.com for Other issues.
 
