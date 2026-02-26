@@ -2,7 +2,7 @@
 
 - Currently a student msjor in Economics and Finance in University of Southampton
 - Currently trying to learn some AI, LLM and do some paper replication
-- bj2u23@soton.ac.uk for Academic issues.
+- Bingchen.jiang.24@ucl.ac.uk for Academic issues.
 - Jiangbingchenjbc@outlook.com for Other issues.
 
 [![Email](https://img.shields.io/badge/-Jiangbingchenjbc@outlook.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:Jiangbingchenjbc@outlook.com)
