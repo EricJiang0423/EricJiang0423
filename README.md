@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @EricJiang0423
 
-- Currently a student msjor in Economics and Finance in University of Southampton
+- Msc Finance with Data Science in UCL
 - Currently trying to learn some AI, LLM and do some paper replication
 - Bingchen.jiang.24@ucl.ac.uk for Academic issues.
 - Jiangbingchenjbc@outlook.com for Other issues.
